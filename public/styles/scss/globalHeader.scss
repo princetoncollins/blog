@@ -1,0 +1,22 @@
+$offwhite: #eee;
+
+#header-nav {
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  display: block;
+  width: 100%;
+  height: auto;
+  background: $offwhite;
+  -webkit-box-shadow: 0 6px 15px 0 rgba(75,75,75,0.31);
+  -moz-box-shadow: 0 6px 15px 0 rgba(75,75,75,0.31);
+  box-shadow: 0 6px 15px 0 rgba(75,75,75,0.31);}
+
+.nav-cont {
+  max-width: 95%;
+  margin: 0 auto;
+}
+
+#menu {
+  text-align: center;
+}
